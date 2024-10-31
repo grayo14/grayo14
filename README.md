@@ -6,10 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying a Data Science Bootcamp in Tripleten
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Hobbies: Football, Biking, trekking and traveling.
+- 🚀 I’m currently studying a Data Science Bootcamp in Tripleten
+- 🧐 I’m looking for help with Python and Machine Learning
+- 🌎 Hobbies: Football, Biking, trekking and traveling.
 
