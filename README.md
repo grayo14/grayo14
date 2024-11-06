@@ -1,3 +1,5 @@
+<img src="https://github.com/grayo14/grayo14/blob/main/Banner_Linkedin.png">
+
 ## Hi there 👋 ➡️ I'm Gastón Rayo ⚡
 
 - 🚀 <b>Currently:</b> I’m currently studying in Tripleten's Data Science Bootcamp
