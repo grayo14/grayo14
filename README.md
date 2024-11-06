@@ -8,5 +8,15 @@
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Gaston-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-rayo/)
 
 * :e-mail: gaston.rayo@gmail.com
+  
+---
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,nodejs,ts,js,nestjs,mongodb,html,css,vscode,discord)](https://skillicons.dev)
+### My Skills:
+
+<div id="header" align="left">
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,sklearn,nodejs,ts,js,nestjs,mongodb,html,css,vscode,discord)](https://skillicons.dev)
+  
+</div>
+
+---
