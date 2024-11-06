@@ -1,16 +1,14 @@
-## Hi there 👋 I'm Gastón Rayo ⚡
+## Hi there 👋 ➡️ I'm Gastón Rayo ⚡
 
-<!--
-**grayo14/grayo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+- 🚀 <b>Currently:</b> I’m currently studying in Tripleten's Data Science Bootcamp
+- 📚 <b>Interests:</b> I’m really interested in continue learning about Python and Machine Learning
+- 🌎 <b>Hobbies:</b> Technology, Football, Biking, trekking and traveling.
 
-- 🚀 I’m currently studying a Data Science Bootcamp in Tripleten
-- 🧐 I’m looking for help with Python and Machine Learning
-- 🌎 Hobbies: Football, Biking, trekking and traveling.
+[](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611x0edc7kyjgiwla8pslmt71fyvjgo0psgx75c97qx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Gaston-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gaston-rayo)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Gaston-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-rayo/)
 
 * :e-mail: gaston.rayo@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,nodejs,ts,js,nestjs,mongodb,html,css,vscode,discord)](https://skillicons.dev)
