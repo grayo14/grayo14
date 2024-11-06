@@ -10,3 +10,7 @@ Here are some ideas to get you started:
 - 🧐 I’m looking for help with Python and Machine Learning
 - 🌎 Hobbies: Football, Biking, trekking and traveling.
 
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gaston-rayo)
+
+* :e-mail: gaston.rayo@gmail.com
+
