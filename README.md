@@ -2,7 +2,7 @@
 
 ## Hi there 👋 ➡️  I'm Gastón Rayo ⚡
 
-- 🚀 <b>Currently:</b> I’m currently studying in Tripleten's Data Science Bootcamp
+- 🚀 <b>Currently:</b> I graduated from the Tripleten's Data Science Bootcamp
 - 📚 <b>Interests:</b> I’m really interested in continue learning about Python and Machine Learning
 - 🌎 <b>Hobbies:</b> Technology, Football, Biking, trekking and traveling.
 
