@@ -4,7 +4,7 @@
 
 - 🚀 <b>Currently:</b> I graduated from the Tripleten's Data Science Bootcamp
 - 📚 <b>Interests:</b> I’m really interested in continue learning about Python and Machine Learning
-- 🌎 <b>Hobbies:</b> Technology, Football, Biking, trekking and traveling.
+- 🌎 <b>Hobbies:</b> Technology, Programming, Football, Biking, trekking and traveling.
 
 ---
 
