@@ -1,4 +1,4 @@
-<img src="https://github.com/grayo14/grayo14/blob/main/banner-linkedin2.png">
+<img src="https://github.com/grayo14/grayo14/blob/main/banner-linkedin.png">
 
 ## Hi there 👋 ➡️  I'm Gastón Rayo ⚡
 
