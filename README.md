@@ -28,13 +28,3 @@
 </div>
 
 ---
-
-### 💼 Portfolio:
-
-<div id="header" align="left">
-
-  <blockquote>Coming Soon... 😎</blockquote>
-  
-</div>
-
----
